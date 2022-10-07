@@ -1,0 +1,57 @@
+.css-1dp5vir {
+    background-image: rgb(0,25,51);
+    height: 0rem;
+}
+
+
+p {
+    color: white;
+    font-family: cursive, fantasy;
+}
+
+/*Input*/
+div.st-b3 {
+
+    background-color: rgb(15, 52, 96);
+    border: 1px solid rgb(15, 52, 96);
+    border-radius: 15px;
+    height: 3rem;
+    width: 15rem;
+    color: black;
+}
+
+input.st-bb::placeholder{
+    color: white;
+}
+
+input::-moz-placeholder{
+    color: white;
+}
+
+/*Body color */
+div.stApp.streamlit-wide {
+    /*background-color: rgb(0,25,51);*/
+    background-color:rgb(22, 33, 62);
+}
+
+/*Header color*/
+header.css-18ni7ap {
+    background-color: rgb(22, 33, 62);
+}
+
+button.css-9s5bis {
+    color: white;
+    border: 1px solid white;
+}
+
+/* Text of the header*/
+span.css-10trblm{
+    font-family: serif;
+    color: white;
+    font-size: 3.5rem;
+}
+.st-bv{
+    color:rgb(218, 204, 230);
+    
+}
+
