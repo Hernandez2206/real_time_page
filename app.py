@@ -13,8 +13,6 @@ def get_data(database_data):
 def main():
     show = False
     
-
-
     df = get_data("data1.csv")
     # Dashboard creation
 
@@ -54,7 +52,7 @@ def main():
         n_happy_actual = int(emotions['happy'])
         n_neutral_actual = int(emotions['neutral'])
         n_bad_actual = int(emotions['bad'])
-        
+
         #show if we got a hashtag
         if show:
 
